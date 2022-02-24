@@ -1,4 +1,4 @@
 # Scratch
 
-Itt található a Scratch projektem.
-You can find my Scratch project in this repo.
+Itt található a Scratch projektjeim.
+You can find my Scratch projects in this repo.
